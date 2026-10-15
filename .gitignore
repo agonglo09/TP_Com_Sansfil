@@ -1,0 +1,6 @@
+# Qt Creator
+*.user
+*.user.*
+
+# Build
+build/
